@@ -1,3 +1,4 @@
+package com.dp.singleton;
 
 public class Singleton {
 	private static Singleton singleton;
