@@ -1,4 +1,4 @@
-package com.dp.singleton;
+package com.dp.responsibility;
 
 public class SingletonMain {
 
